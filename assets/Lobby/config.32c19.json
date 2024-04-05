@@ -1,0 +1,1 @@
+{"paths":{"0":["tag-2",1],"1":["tag-2",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["f4DGwwa1lAn5ETcVeeZKdT","c03qIICqtBIJ+g9wVJqv2n"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Lobby","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"b14ed",0,"7871f"],"native":[0,"8de91"]}}
